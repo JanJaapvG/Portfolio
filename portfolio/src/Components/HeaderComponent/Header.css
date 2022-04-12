@@ -11,7 +11,7 @@
 
 .title {
     position: relative;
-    margin-left: 1rem;
+    margin-left: 3rem;
     font-weight: 300;
     font-size: 2rem;
     color: white;
@@ -43,11 +43,15 @@
     align-items: center;
 }
 
+.link {
+    padding-right: 3rem;
+}
+
 .navLink {
     font-family: "Raleway", sans-serif;
     font-weight: 300;
     font-size: 1.5rem;
     color: white;
     text-decoration: none;
-    padding: 1rem;
+    border-bottom: 1px solid whitesmoke;
 }

@@ -8,21 +8,31 @@ export default function Header() {
       </div>
 
       <div className="links">
-        <a href="/" className="navLink">
-          About
-        </a>
-        <a href="/" className="navLink">
-          Projects
-        </a>
-        <a href="/" className="navLink">
-          Skills
-        </a>
-        <a href="/" className="navLink">
-          Education
-        </a>
-        <a href="/" className="navLink">
-          Contact
-        </a>
+        <div className="link">
+          <a href="/" className="navLink">
+            About
+          </a>
+        </div>
+        <div className="link">
+          <a href="/" className="navLink">
+            Projects
+          </a>
+        </div>
+        <div className="link">
+          <a href="/" className="navLink">
+            Skills
+          </a>
+        </div>
+        <div className="link">
+          <a href="/" className="navLink">
+            Education
+          </a>
+        </div>
+        <div className="link">
+          <a href="/" className="navLink">
+            Contact
+          </a>
+        </div>
       </div>
     </div>
   );

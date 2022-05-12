@@ -25,9 +25,9 @@ export default function Header() {
             <div className="social">
               <SocialIcon
                 url={url}
-                network={network ? network : ""}
-                bgColor={bgColor ? bgColor : ""}
-                fgColor={fgColor ? fgColor : ""}
+                network={network || ""}
+                bgColor={bgColor || ""}
+                fgColor={fgColor || ""}
               ></SocialIcon>
             </div>
           ))}

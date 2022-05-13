@@ -7,7 +7,7 @@ export default function Header() {
     <div className="header">
       <div className="header-container">
         <div id="title">
-          <h1 className="title">Portfolio</h1>
+          <h1 className="title">JJvG</h1>
         </div>
 
         <div className="links">

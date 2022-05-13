@@ -1,23 +1,23 @@
 export const links = [
   {
-    name: "About",
-    url: "/",
+    name: "Hero",
+    url: "/#Hero",
   },
   {
     name: "Projects",
-    url: "/",
+    url: "/#Projects",
   },
   {
-    name: "Skills",
-    url: "/",
+    name: "Technologies",
+    url: "/#Technologies",
   },
   {
     name: "Education",
-    url: "/",
+    url: "/#Education",
   },
   {
     name: "Contact",
-    url: "/",
+    url: "/#Contact",
   },
 ];
 
